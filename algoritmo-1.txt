@@ -1,1 +1,8 @@
-resolucion del algoritmo1
+
+Generar un algoritmo que permite calcular y presentar el área de un triángulo. Los datos deben ser pedidos al usuario.
+algoritmo 
+1.inicio 
+2.se pide los datos
+3.se calcula el area del triangulo 
+4.se muestra el area del triangulo 
+5.fin 
